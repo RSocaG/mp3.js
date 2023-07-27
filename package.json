@@ -1,5 +1,5 @@
 {
-  "name": "mp3",
+  "name": "mp3-fix",
   "version": "0.1.1",
   "description": "An MP3 decoder for Aurora.js",
   "peerDependencies": {
